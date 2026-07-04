@@ -8,5 +8,5 @@ To minimize food wastage by predicting number of students for each meal.
 
 ## Team
 
-Shaurya Pratap Singh
-Yash Kumar
+- Shaurya Pratap Singh
+- Yash Kumar
