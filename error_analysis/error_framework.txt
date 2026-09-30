@@ -1,0 +1,34 @@
+05a_error_analysis_dinner.ipynb
+
+1.
+Load predictions
+
+2.
+Residual dataframe
+
+3.
+Residual distribution
+
+4.
+Worst predictions (20,30,...)
+
+5.
+Manual investigation
+
+6.
+Bucketed analysis
+
+7.
+Pattern summary
+
+8.
+SHAP
+
+9.
+Ljung-Box (optional)
+
+10.
+V2 hypothesis table
+
+11.
+Conclusions
